@@ -1,0 +1,11 @@
+framework module IosRemoteUpgrade {
+  umbrella header "IosRemoteUpgrade.h"
+
+  export *
+  module * { export * }
+}
+
+module IosRemoteUpgrade.Swift {
+    header "IosRemoteUpgrade-Swift.h"
+    requires objc
+}
