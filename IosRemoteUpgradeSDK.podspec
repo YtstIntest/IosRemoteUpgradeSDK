@@ -34,7 +34,7 @@ s.vendored_frameworks = 'IosRemoteUpgrade.framework'
 s.public_header_files = 'IosRemoteUpgrade.framework/Headers/IosRemoteUpgrade.h'
 
 #依赖库
-s.libraries    = 'Moya','SwiftyJSON','HandyJSON'
+s.vendored_frameworks   = 'Moya','SwiftyJSON','HandyJSON'
 
 #依赖库
 s.frameworks   = 'UIKit','Foundation'
