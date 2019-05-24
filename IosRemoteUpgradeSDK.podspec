@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 s.name         = 'IosRemoteUpgradeSDK'
 
 #版本号
-s.version      = '1.0.1'
+s.version      = '1.0.2'
 
 #许可证
 s.license      = { :type => 'MIT' } 
@@ -25,7 +25,7 @@ s.source       = { :git => 'https://github.com/YtstIntest/IosRemoteUpgradeSDK.gi
 s.platform     = :ios, '8.0'
 
 #需要包含的源文件 
-s.source_files = 'IosRemoteUpgrade.framework/Headers/*.{h}','Moya.framework/Headers/*.{h}','SwiftyJSON.framework/Headers/*.{h}','HandyJSON.framework/Headers/*.{h}','Result.framework/Headers/*.{h}','Alamofire.framework/Headers/*.{h}'
+s.source_files = 'IosRemoteUpgrade.framework/Headers/*.{h}'
 
 #你的SDK路径
 s.vendored_frameworks = 'IosRemoteUpgrade.framework','Moya.framework','SwiftyJSON.framework','HandyJSON.framework','Result.framework','Alamofire.framework'
