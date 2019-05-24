@@ -28,13 +28,12 @@ s.platform     = :ios, '8.0'
 s.source_files = 'IosRemoteUpgrade.framework/Headers/*.{h}'
 
 #你的SDK路径
-s.vendored_frameworks = 'IosRemoteUpgrade.framework'
+s.vendored_frameworks = 'IosRemoteUpgrade.framework','Moya.framework','SwiftyJSON.framework','HandyJSON.framework','Result.framework','Alamofire.framework'
 
 #SDK头文件路径
 s.public_header_files = 'IosRemoteUpgrade.framework/Headers/IosRemoteUpgrade.h'
 
 #依赖库
-s.libraries    = 'Moya.framework','SwiftyJSON.framework','HandyJSON.framework','Result.framework','Alamofire.framework'
 
 #依赖库
 s.frameworks   = 'UIKit','Foundation'
