@@ -18,59 +18,75 @@
 		</data>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/arm.swiftdoc</key>
 		<data>
-		WLnE3RUa/a3j3gMTFE+djhnpPT8=
+		NWKZA6EFXPpfNQ15dTQ2QRNSe94=
 		</data>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/arm.swiftmodule</key>
 		<data>
-		7mxn2inxSUZnzQKAzggMldyfvkU=
+		2dpiVLA9ux+TauM3vdCncFqgjro=
 		</data>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		wv5YAbiFzGagwgE9Qd3kunsI46I=
+		6MemhweUilV/KNPCvb7cLQLC5sA=
 		</data>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		qspXEGVAgGpmGvkmjsvytlIs5Ns=
+		L4mWPXDtMa8KV0k9ImAWDnMtDPw=
 		</data>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		wv5YAbiFzGagwgE9Qd3kunsI46I=
+		6MemhweUilV/KNPCvb7cLQLC5sA=
 		</data>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		qspXEGVAgGpmGvkmjsvytlIs5Ns=
+		L4mWPXDtMa8KV0k9ImAWDnMtDPw=
 		</data>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
-		WLnE3RUa/a3j3gMTFE+djhnpPT8=
+		NWKZA6EFXPpfNQ15dTQ2QRNSe94=
 		</data>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		7mxn2inxSUZnzQKAzggMldyfvkU=
+		2dpiVLA9ux+TauM3vdCncFqgjro=
 		</data>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/armv7.swiftdoc</key>
 		<data>
-		WLnE3RUa/a3j3gMTFE+djhnpPT8=
+		NWKZA6EFXPpfNQ15dTQ2QRNSe94=
 		</data>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		7mxn2inxSUZnzQKAzggMldyfvkU=
+		2dpiVLA9ux+TauM3vdCncFqgjro=
+		</data>
+		<key>Modules/IosRemoteUpgrade.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
+		<data>
+		p3xEcYgCETpCa0O6q57JPM0G570=
+		</data>
+		<key>Modules/IosRemoteUpgrade.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
+		<data>
+		Ki8YnZAYmKriUGFmskad8BOVozE=
 		</data>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/i386.swiftdoc</key>
 		<data>
-		KggEnR5dgsDXcTsFoCfmQRXX3ns=
+		p3xEcYgCETpCa0O6q57JPM0G570=
 		</data>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/i386.swiftmodule</key>
 		<data>
-		uQJ4ZZhHnDSlWlojtphP6p6fxKw=
+		Ki8YnZAYmKriUGFmskad8BOVozE=
+		</data>
+		<key>Modules/IosRemoteUpgrade.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		jnz9NLwcBUXXrQ5AP3zKXFS6VuM=
+		</data>
+		<key>Modules/IosRemoteUpgrade.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		P5MBdeUJv8KMh37CfKR/bhMddCI=
 		</data>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		quCaL/UeVSgUhYeevykCaz4FJvQ=
+		jnz9NLwcBUXXrQ5AP3zKXFS6VuM=
 		</data>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		wpHKBU5deo3KbkKPvN36Pe0R+nI=
+		P5MBdeUJv8KMh37CfKR/bhMddCI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -105,154 +121,198 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WLnE3RUa/a3j3gMTFE+djhnpPT8=
+			NWKZA6EFXPpfNQ15dTQ2QRNSe94=
 			</data>
 			<key>hash2</key>
 			<data>
-			6V7Mc+ivegNpVm61gkDKQ3xDlQfBRiwjaiAWClqNvFs=
+			4hUNsc4avOPfLvQ/55tA3CNkMmEizjmrlToEc2qUBak=
 			</data>
 		</dict>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7mxn2inxSUZnzQKAzggMldyfvkU=
+			2dpiVLA9ux+TauM3vdCncFqgjro=
 			</data>
 			<key>hash2</key>
 			<data>
-			Nq01G8jAirFSYeD0EWff8Bl8kPXyLpkLJUal2S8UWgk=
+			FM9ScNXswhRI6ZKyHbopjrJYxoPpgd2fx9RvizIe+Zs=
 			</data>
 		</dict>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wv5YAbiFzGagwgE9Qd3kunsI46I=
+			6MemhweUilV/KNPCvb7cLQLC5sA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ci3DQJAsa1Y7GrRTtl2Sb+WLzBf8Hw0HIGFLUtSM1Go=
+			ni9s3Lj80I8ZPQ5r4eJwZlc4s5pqaFaVnhIzOdwtqNI=
 			</data>
 		</dict>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qspXEGVAgGpmGvkmjsvytlIs5Ns=
+			L4mWPXDtMa8KV0k9ImAWDnMtDPw=
 			</data>
 			<key>hash2</key>
 			<data>
-			uxnezzHbfPkOvFBj9R+/Q2i5tT31wosWkeegVh8mZlY=
+			TQzeQe/mDc384Sv++4WBVguW2jq2lpvUwj9yNSSmWlk=
 			</data>
 		</dict>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wv5YAbiFzGagwgE9Qd3kunsI46I=
+			6MemhweUilV/KNPCvb7cLQLC5sA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ci3DQJAsa1Y7GrRTtl2Sb+WLzBf8Hw0HIGFLUtSM1Go=
+			ni9s3Lj80I8ZPQ5r4eJwZlc4s5pqaFaVnhIzOdwtqNI=
 			</data>
 		</dict>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qspXEGVAgGpmGvkmjsvytlIs5Ns=
+			L4mWPXDtMa8KV0k9ImAWDnMtDPw=
 			</data>
 			<key>hash2</key>
 			<data>
-			uxnezzHbfPkOvFBj9R+/Q2i5tT31wosWkeegVh8mZlY=
+			TQzeQe/mDc384Sv++4WBVguW2jq2lpvUwj9yNSSmWlk=
 			</data>
 		</dict>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WLnE3RUa/a3j3gMTFE+djhnpPT8=
+			NWKZA6EFXPpfNQ15dTQ2QRNSe94=
 			</data>
 			<key>hash2</key>
 			<data>
-			6V7Mc+ivegNpVm61gkDKQ3xDlQfBRiwjaiAWClqNvFs=
+			4hUNsc4avOPfLvQ/55tA3CNkMmEizjmrlToEc2qUBak=
 			</data>
 		</dict>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7mxn2inxSUZnzQKAzggMldyfvkU=
+			2dpiVLA9ux+TauM3vdCncFqgjro=
 			</data>
 			<key>hash2</key>
 			<data>
-			Nq01G8jAirFSYeD0EWff8Bl8kPXyLpkLJUal2S8UWgk=
+			FM9ScNXswhRI6ZKyHbopjrJYxoPpgd2fx9RvizIe+Zs=
 			</data>
 		</dict>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/armv7.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WLnE3RUa/a3j3gMTFE+djhnpPT8=
+			NWKZA6EFXPpfNQ15dTQ2QRNSe94=
 			</data>
 			<key>hash2</key>
 			<data>
-			6V7Mc+ivegNpVm61gkDKQ3xDlQfBRiwjaiAWClqNvFs=
+			4hUNsc4avOPfLvQ/55tA3CNkMmEizjmrlToEc2qUBak=
 			</data>
 		</dict>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/armv7.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7mxn2inxSUZnzQKAzggMldyfvkU=
+			2dpiVLA9ux+TauM3vdCncFqgjro=
 			</data>
 			<key>hash2</key>
 			<data>
-			Nq01G8jAirFSYeD0EWff8Bl8kPXyLpkLJUal2S8UWgk=
+			FM9ScNXswhRI6ZKyHbopjrJYxoPpgd2fx9RvizIe+Zs=
+			</data>
+		</dict>
+		<key>Modules/IosRemoteUpgrade.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			p3xEcYgCETpCa0O6q57JPM0G570=
+			</data>
+			<key>hash2</key>
+			<data>
+			Mw74lDSLaaLEDI/g2sQfp/9Cd4Zjq6lAWFcDErlAOds=
+			</data>
+		</dict>
+		<key>Modules/IosRemoteUpgrade.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ki8YnZAYmKriUGFmskad8BOVozE=
+			</data>
+			<key>hash2</key>
+			<data>
+			7C2PHJl715nJzej24grzxbi7f0/pO72dfcxFsKb5cVY=
 			</data>
 		</dict>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KggEnR5dgsDXcTsFoCfmQRXX3ns=
+			p3xEcYgCETpCa0O6q57JPM0G570=
 			</data>
 			<key>hash2</key>
 			<data>
-			dZx21qhna8jmE/GPx8EgFMrGPPIdhd7M8AGKgV/ddQ4=
+			Mw74lDSLaaLEDI/g2sQfp/9Cd4Zjq6lAWFcDErlAOds=
 			</data>
 		</dict>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uQJ4ZZhHnDSlWlojtphP6p6fxKw=
+			Ki8YnZAYmKriUGFmskad8BOVozE=
 			</data>
 			<key>hash2</key>
 			<data>
-			IP9PTjBEMPI74QiNPcRtLrFQdL9IbHf34IWuOqnN1nc=
+			7C2PHJl715nJzej24grzxbi7f0/pO72dfcxFsKb5cVY=
+			</data>
+		</dict>
+		<key>Modules/IosRemoteUpgrade.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jnz9NLwcBUXXrQ5AP3zKXFS6VuM=
+			</data>
+			<key>hash2</key>
+			<data>
+			eT4r4qUME4GxuDgPxst3kj2FnwWw33C4VT6R11mfdBo=
+			</data>
+		</dict>
+		<key>Modules/IosRemoteUpgrade.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			P5MBdeUJv8KMh37CfKR/bhMddCI=
+			</data>
+			<key>hash2</key>
+			<data>
+			8NSD9u1VyHsY9cdJowl5rLBNaKYom7VXaUb4PxD5mCg=
 			</data>
 		</dict>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			quCaL/UeVSgUhYeevykCaz4FJvQ=
+			jnz9NLwcBUXXrQ5AP3zKXFS6VuM=
 			</data>
 			<key>hash2</key>
 			<data>
-			SW+idzXCzCOspdZHxr0L5+QICxjISVQI4wTSFPJFuKY=
+			eT4r4qUME4GxuDgPxst3kj2FnwWw33C4VT6R11mfdBo=
 			</data>
 		</dict>
 		<key>Modules/IosRemoteUpgrade.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wpHKBU5deo3KbkKPvN36Pe0R+nI=
+			P5MBdeUJv8KMh37CfKR/bhMddCI=
 			</data>
 			<key>hash2</key>
 			<data>
-			P+nU1iXF8XeiZWE4IbqLqGhbXn7qhG/Cw5Gt3+qKyHM=
+			8NSD9u1VyHsY9cdJowl5rLBNaKYom7VXaUb4PxD5mCg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
