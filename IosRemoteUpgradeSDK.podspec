@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 s.name         = 'IosRemoteUpgradeSDK'
 
 #版本号
-s.version      = '1.0.1-N60'
+s.version      = '1.1.5'
 
 #许可证
 s.license      = { :type => 'MIT' } 
