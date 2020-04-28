@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 s.name         = 'IosRemoteUpgradeSDK'
 
 #版本号
-s.version      = '1.1.6'
+s.version      = '1.1.7'
 
 #许可证
 s.license      = { :type => 'MIT' } 
@@ -40,6 +40,7 @@ s.public_header_files = 'IosRemoteUpgrade.framework/Headers/IosRemoteUpgrade.h'
 
 s.dependency 'Moya'
 s.dependency 'HandyJSON'
+s.dependency 'Alamofire'
 
 #依赖库
 s.frameworks   = 'UIKit','Foundation'
